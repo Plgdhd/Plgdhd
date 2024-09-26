@@ -7,6 +7,9 @@
   <a href="https://t.me/plgdhd"> 
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/> 
   </a>
+  <a href="https://discordapp.com/users/648774699656019969">
+    <img src="https://img.shields.io/badge/discord-1f75fe?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </div>
 
 <div align ="center"> 
