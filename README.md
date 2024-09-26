@@ -1,5 +1,12 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://i.pinimg.com/originals/0e/20/d8/0e20d8051aee2fa0a161ae3c9d84d078.jpg"/>
+</div>
 
+<div id="badges"> 
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fplgdhd"/>
+  
+</div>
 <!--
 **Plgdhd/Plgdhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
