@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/0e/20/d8/0e20d8051aee2fa0a161ae3c9d84d078.jpg"/>
 </div>
