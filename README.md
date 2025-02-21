@@ -37,7 +37,7 @@
 ---
 
 <div align="center">
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=plgdhd&theme=tokyonight" alt="GitHub Streak"/> </a>
+  <a [![GitHub Streak](https://streak-stats.demolab.com/?user=plgdhd)](https://git.io/streak-stats)> </a>
 
 ---
 <div align="center">
