@@ -43,6 +43,7 @@
    <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=plgdhd&theme=tokyonight" alt="GitHub Streak"/></a>
 
 ---
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgdhd&layout=compact&theme=tokyonight" alt="Top Langs"/> </a>
 </div>
