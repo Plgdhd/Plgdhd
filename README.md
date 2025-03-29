@@ -47,6 +47,9 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plgdhd&layout=compact&theme=tokyonight" alt="Top Langs"/> </a>
 </div>
+
+---
+
 <img width=300 src="https://leetcard.jacoblin.cool/plgdhd?theme=nord" alt="ovi" align="center"/>
 
 <!--
