@@ -52,9 +52,7 @@
 
 <img width=300 src="https://leetcard.jacoblin.cool/plgdhd?theme=nord" alt="ovi" align="center"/>
 
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Plgdhd/Plgdhd/output/github-contribution-grid-snake.svg" />
-  <br/>
+
 
 <!--
 **Plgdhd/Plgdhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
