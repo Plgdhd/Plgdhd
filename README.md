@@ -53,7 +53,7 @@
 <img width=300 src="https://leetcard.jacoblin.cool/plgdhd?theme=nord" alt="ovi" align="center"/>
 
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/plgdhd/plgdhd/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Plgdhd/Plgdhd/output/github-contribution-grid-snake.svg" />
   <br/>
 
 <!--
