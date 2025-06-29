@@ -38,10 +38,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 
 ---
+<div align="center"> 
+  ![](https://github-readme-stats.vercel.app/api?username=Plgdhd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+</div>
+---
 
 <div align="center">
    <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=plgdhd&theme=tokyonight" alt="GitHub Streak"/></a>
-
+</div>
 ---
 
 <div align="center">
