@@ -38,9 +38,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 
 ---
-<div align="center"> 
-  ![](https://github-readme-stats.vercel.app/api?username=Plgdhd&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Plgdhd&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" />
+</p>
+
 ---
 
 <div align="center">
